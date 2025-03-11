@@ -36,6 +36,7 @@ Este é um projeto desenvolvido como parte do módulo **Lógica de Programação
 ```
 
 ## Deploy
-Link de acesso do jogo: [Jogo do Número Secreto](jogo-do-numero-secreto-sable-psi.vercel.app)
+Link de acesso ao jogo: <a href="https://jogo-do-numero-secreto-sable-psi.vercel.app" target="_blank">Jogo do Número Secreto</a>
+
 
 
